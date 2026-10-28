@@ -48,3 +48,12 @@
 
 ### Fallo
 <img width="1151" height="807" alt="R7Falllo" src="https://github.com/user-attachments/assets/bd86c5fa-8a2e-43e6-bc43-e7adcf491dde" />
+
+# Interfaz
+<img width="1080" height="2340" alt="Screenshot_20261028_140612" src="https://github.com/user-attachments/assets/790cbf0b-aeb1-4d1e-8584-3a3ca057f2ea" />
+
+<img width="1080" height="2340" alt="Screenshot_20261028_140702" src="https://github.com/user-attachments/assets/4dbb815b-0a30-4969-a0b0-4dc699e101f2" />
+
+<img width="1080" height="2340" alt="Screenshot_20261028_140709" src="https://github.com/user-attachments/assets/c2be7c8b-afd1-4294-b692-3e656618ef5b" />
+
+
